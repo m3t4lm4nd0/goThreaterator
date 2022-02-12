@@ -1,8 +1,8 @@
-# goThreaterator
+# threaterator
 Threat Idea Generator that returns potential threat based on known vulnerabilities for selected software
 
 ## Requirements
-General objective for the goThrearator is to iterate known vulnerability information for plausible threats
+General objective for the threaterator is to iterate known vulnerability information for plausible threats
 <ul>
   <li>Retrieve CSV file from https://www.cve.org/Downloads</li>
   <li>Search CSV file for key terms</li>
